@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BiltongApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbea699a66574947c975f812793025166e5be867")]
 [assembly: System.Reflection.AssemblyProductAttribute("BiltongApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BiltongApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
